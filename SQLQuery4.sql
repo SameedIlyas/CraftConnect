@@ -1,2 +1,0 @@
-﻿ALTER TABLE Products
-ADD SellerName NVARCHAR(255) NOT NULL;
